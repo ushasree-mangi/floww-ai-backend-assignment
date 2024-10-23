@@ -1,7 +1,7 @@
 # floww-ai-backend-assignment
 # Personal Expense Tracker
 
-This is a backend application for an expense tracker built using Node.js, Express.js, SQLite, and JWT for authentication. The application allows users to register, log in, and manage their financial transactions.
+This is a backend application for an expense tracker built using Node.js, Express.js, SQLite, and JWT for authentication. The application allows users to register, log in, and manage their financial transactions. Developed a RESTful API for managing personal financial records. Users can record their income and expenses, retrieve past transactions, and get summaries etc.
 
 ## Table of Contents
 
